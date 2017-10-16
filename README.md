@@ -13,10 +13,15 @@ Hello!
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-`Code
-    Hi hi = new Hi()
+`
 
-    `
+    Hi hi = new Hi();
+    var a = b;
+    if (c == d) {
+        println("Hello!")
+    }
+
+`
 
 [^1]: This is my first footnote
 
@@ -46,6 +51,9 @@ dog's back.
 > ## This is an H2 in a blockquote
 
 Some of these words *are emphasized*.
+
 Some of these words _are emphasized also_.
+
 Use two asterisks for **strong emphasis**.
+
 Or, if you prefer, __use two underscores instead__.
