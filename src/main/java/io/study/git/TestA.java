@@ -1,7 +1,9 @@
-package io.study;
+package io.study.git;
 
-/**
- * Created by eweiqhu on 10/16/2017.
- */
-public class git {
+public class TestA {
+
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+
 }
